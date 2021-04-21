@@ -1,2 +1,4 @@
-# Used-Cars-Price-Prediction
-Contains ML code and files for used cars price prediction model
+##Project Name: Used Cars Price Prediction using advanced Regression Techniques
+The main aim of this project is to explore the dataset and discuss some interesting observations through visualizations and train machine learning models to fit and predict the prices of the used cars based on various features using supervised learning.
+
+Dataset to downloaded from the below link link here: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
