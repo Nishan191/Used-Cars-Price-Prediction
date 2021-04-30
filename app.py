@@ -29,7 +29,7 @@ def predict():
     #load model for scalling
     standardscaler= pickle.load(open(config.scaler_model, 'rb'))
 
-    #load Random Forest models
+    #load AdaBoost Regressor models
     mymodel = pickle.load(open(config.rf_model, 'rb'))
 
     #forms data
