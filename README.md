@@ -5,5 +5,7 @@ The main aim of this project is to explore the dataset and discuss some interest
 Dataset is downloaded from the link here: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 Deployment Link: AWS EC2:  http://ec2-3-19-234-254.us-east-2.compute.amazonaws.com:8080/
-                 Heroku :  https://usedcarspriceprediction.herokuapp.com/
+
+Deployment Link: Heroku :  https://usedcarspriceprediction.herokuapp.com/
+
 
